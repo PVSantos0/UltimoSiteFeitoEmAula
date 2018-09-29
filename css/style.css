@@ -1,0 +1,103 @@
+header {
+  background-color: #EEE0CB;
+}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #87A878;
+}
+
+i{
+  color:grey;
+}
+
+a:hover {
+  color: blue;
+}
+
+footer{
+  background-color: #d8c99b;
+}
+
+#hoje {
+  border-radius: 50px;
+  
+}
+
+#topo {
+  position: fixed;
+  color: grey;
+  font-size: 60px;
+  bottom: 20px;
+  right: 30px;
+}
+
+#map {
+  height: 400px;
+}
+
+.img-logo {
+  width: 70px;
+  height: 70px;
+}
+
+.navbar-menu > a {
+  padding: 10px;
+  font-weight: bold;
+  color: #d7321f;
+  transition: ease 0.5s;
+}
+
+.navbar-menu > a:hover {
+  color: #87A878;
+}
+
+.cocktail-img {
+  height: 200px;
+  width: 300px;
+}
+
+.btn-cocktail {
+  background-color: #87A878;
+  color: white;
+}
+
+.maps-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+
+.facebook-color{
+  color: #3b5998;
+}
+
+.instagram-color{
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.spotify-color{
+  color:#1db954;
+}
+
+.youtube-color{
+  color:#cc181e;
+}
+
+.fonte{
+  color: black;
+}
+
+.test{
+  background-color: #EEE0CB;
+}
+
+.test2{
+  background-color: #d8c99b;
+}
+
+/*https://coolors.co/2f4b26-87a878-e8d2ae-eee0cb-d8c99b*/
